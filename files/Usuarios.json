@@ -1,0 +1,72 @@
+[
+	{
+		"nombre": "agustin",
+		"apellido": "Mariani",
+		"edad": 28,
+		"curso": "Backend",
+		"id": 1
+	},
+	{
+		"nombre": "Martin",
+		"apellido": "Palermo",
+		"edad": 28,
+		"curso": "React",
+		"id": 2
+	},
+	{
+		"nombre": "Lionel",
+		"apellido": "Messi",
+		"edad": 28,
+		"curso": "SQL",
+		"id": 3
+	},
+	{
+		"nombre": "Juan Roman",
+		"apellido": "Riquelme",
+		"edad": 28,
+		"curso": "Javascript",
+		"id": 4
+	},
+	{
+		"nombre": "Diego Armando",
+		"apellido": "Maradona",
+		"edad": 28,
+		"curso": "Backend",
+		"id": 5
+	},
+	{
+		"nombre": "Rodrigo",
+		"apellido": "Palacio",
+		"edad": 28,
+		"curso": "SQL",
+		"id": 6
+	},
+	{
+		"nombre": "Roberto",
+		"apellido": "Abondancieri",
+		"edad": 28,
+		"curso": "Backend",
+		"id": 7
+	},
+	{
+		"nombre": "Oscar",
+		"apellido": "Cordoba",
+		"edad": 28,
+		"curso": "React",
+		"id": 8
+	},
+	{
+		"nombre": "Clemente",
+		"apellido": "Rodriguez",
+		"edad": 28,
+		"curso": "Javascript",
+		"id": 9
+	},
+	{
+		"nombre": "Fernando",
+		"apellido": "Gago",
+		"edad": 28,
+		"curso": "Backend",
+		"id": 10
+	}
+]
